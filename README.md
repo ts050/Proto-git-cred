@@ -6,3 +6,6 @@ This dirty piece of code was made to handle a case where the git credentials nee
 Highly specific use case and passwords are stored in plain-text
 
 The account details go into individual <username>-details.sh files and and corresponding entries are made in the git-settings-helper.sh file
+
+TODO - Handling errors when special characters are present in username or password
+TODO - dbstore for credentials
