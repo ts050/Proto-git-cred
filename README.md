@@ -11,4 +11,4 @@ The account details go into individual <username>-details.sh files and and corre
 
 TODO - dbstore for credentials
 
-Known Issues - Password prompt is displayed the first time after a credental change is made but hitting return key fixes it
+Known Issues - Password prompt is displayed the first time after a credental change is made but hitting return key fixes it. Personal token is created for each login leading to mails from github
